@@ -12,4 +12,6 @@ Integration with other libraries in the scientific computing ecosystem
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
 
 ### License
-MIT
+MIT License
+
+Copyright (c) 2023 Anju Reddy K
